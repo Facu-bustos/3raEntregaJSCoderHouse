@@ -1,0 +1,78 @@
+*{
+    background-color: rgb(95, 95, 93) !important;
+
+}
+
+.navbar{
+    background-color: rgb(12, 12, 12) !important;
+    margin-bottom: 0px !important;
+}
+.imagen{
+    max-width:100%;
+}
+.card-img-top{
+    width: auto !important;
+    height: 200px !important;
+}
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+body{
+    background-color: #E3D8D6;
+    overflow-x: hidden;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
+.modal-content{
+    background-color: #E3D8D6;
+}
+.parrafo{
+    font-weight: 900;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.text-center .text-primary .parrafo {
+    color: black !important;
+}
+.boton{
+    opacity:0;
+}
+.p-3 {
+    display: flex !important;
+    justify-content: center !important;
+    font-size: 80px !important;
+    font-family: sans-serif !important;
+    border-radius: 30%;
+}
+#contenedor{
+    display: flex !important;
+    justify-content: center !important;
+}
+.card-body{
+    background-color: rgb(0, 0, 0) !important;
+    margin-top: 0px !important;
+}
+.btn-primary{
+    background-color: rgb(242, 11, 11) !important;
+}
+.bsDeveloper{
+    margin: 10px;
+    text-align: center;
+    background-color: black ;
+}
